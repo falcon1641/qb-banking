@@ -23,7 +23,7 @@ body {
     min-height: 800px;
     max-height: 800px;
     display: none;
-    border: 2px solid red;
+    border: 2px solid #dc8514;
 }
 
 .statement:hover {
@@ -60,7 +60,7 @@ body {
     color: white;
     margin-bottom: 15px;
     font-weight: bolder;
-    border-left: 2px solid red;
+    border-left: 2px solid #dc8514;
 }
 
 .content {
@@ -71,12 +71,12 @@ body {
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
     color: rgb(255, 255, 255);
-    background-color: #DC143C;
+    background-color: #dc8514;
 }
 
 .btn-primary {
     color: rgb(255, 255, 255);
-    background-color: #DC143C;
+    background-color: #dc8514;
     border-color: transparent;
 }
 
